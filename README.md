@@ -35,6 +35,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - 💬 Talk with me about technology, finance, entrepreneurship and anything if my work featured in my repositories interest you.
 - 🧡 I believe in Open Source.
 - 👯 Open for research internships and interesting collaborations.
+- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
