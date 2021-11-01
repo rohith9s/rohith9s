@@ -24,9 +24,12 @@
 I am originally from Hyderabad, India but currently living in Illinois, USA and pursuing my Masters in Computer Science from [Southern Illinois University Edwardsville
 ](https://www.siue.edu/). I am a full stack web developer. I love contributing to open source projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I always believe in my quote, "Currency & Chair won't give you Life... ❤ more people, ❤ you country, ❤ your profession.."
 
+🧐 More About Me:
+
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 - 🎓 Studying Masters in Computer Science at SIUE, class of 2022.
+- 💻 Full Stack Web Developer since 2014 and much of every thing ❤️
 - 💬 Talk with me about technology, finance, entrepreneurship and anything if my work featured in my repositories interest you.
 - 🧡 I believe in Open Source.
 - 👯 Open for research internships and interesting collaborations.
