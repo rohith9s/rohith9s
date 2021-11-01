@@ -36,6 +36,13 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - 👯 Open for research internships and interesting collaborations.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
+
+My Absolute Favorites:
+
+- 💻  I love exploring new tech stack and building cool stuffs.
+- 📰  Reading & writing tech blogs whenever possible.
+- 🍕  Hackathons, meetups & tech events.
+
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
