@@ -25,7 +25,7 @@ I am originally from Hyderabad, India but currently living in Illinois, USA and 
 
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces (*"If you can dream, your machine  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> can do it"*). I take great care in the experience, architecture, and code quality of the things I build.
 
-🧐 More About Me:
+## 🧐 More About Me:
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
@@ -37,11 +37,26 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 
-My Absolute Favorites:
+## My Absolute Favorites:
 
 - 💻  I love exploring new tech stack and building cool stuffs.
 - 📰  Reading & writing tech blogs whenever possible.
 - 🍕  Hackathons, meetups & tech events.
+
+## Professional Experiences
+* DBS Asia Hub 2 Pvt Ltd (Oct’19– Jul’21)
+   * DBS is a leading financial services group in Asia that has been at the forefront of creating and delivering best-in-class solutions for their customers.
+   * Worked as a full stack web developer.
+* Adaequare Info Private Limited (Jan’17– Sep'19)
+   * Adaequare is a product & service based company where they are building `Listany` – Enterprise Ecommerce Solution
+   * Worked as Software Engineer & promoted to Senior Software Engineer where i'm involed in `Listany` product development.
+* Tectoro Consulting Pvt Ltd (Jan'15 – Dec'16)
+   * Tectoro specializes in providing technology solutions and consulting services to capital market participants.
+   * Worked as a Software Engineer in financial domain & took involvement in all area of application development.
+* Nacre Software Services Pvt Ltd (Sep'14 –Dec'14) 
+   * Worked as Java Trainee Intern.
+
+
 
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
