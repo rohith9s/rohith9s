@@ -17,6 +17,10 @@
  </p>
 
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Rohith Varala | 💻 Full Stack Web Developer | 🛸 India , USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
