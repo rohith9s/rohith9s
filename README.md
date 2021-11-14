@@ -31,6 +31,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 - 🎓 Studying Masters in Computer Science at SIUE, class of 2022.
 - 💻 Full Stack Web Developer since 2014 and much of every thing ❤️
+- 🌱 I’m currently learning more about Data Structures, Algorithms & System Design skills🤓.
 - 💬 Talk with me about technology, finance, entrepreneurship and anything if my work featured in my repositories interest you.
 - 🧡 I believe in Open Source.
 - 👯 Open for research internships and interesting collaborations.
@@ -82,16 +83,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
    <a href="https://github.com/rohith9s"><img alt="Log4J" src="https://img.shields.io/badge/Log4J-blue"></a> 
-   
-	
-
-   
-   
- 
 </p>
-
-
-
 
 ### 🗄️ Databases
 <p>
@@ -101,12 +93,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
     <a href="#"><img alt="PostgreSQL" height="20" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SonarLint" height="20" src="https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb"></a>
     <a href="https://github.com/rohith9s"><img alt="Sybase" src="https://img.shields.io/badge/Sybase-blue"></a>
-   
 </p>
 
-
 ### 💻 Softwares, Tools and Servers
-
 <p>
    <a href="#"><img alt="Apache Maven"  height="20" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
    <a href="#"><img alt="Sublime Text" height="20" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
