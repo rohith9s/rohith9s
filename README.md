@@ -32,9 +32,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - 🎓 Studying Masters in Computer Science at SIUE, class of 2022.
 - 💻 Full Stack Web Developer since 2014 and much of every thing ❤️
 - 🌱 I’m currently learning more about Data Structures, Algorithms & System Design skills🤓.
-- 💬 Talk with me about technology, finance, entrepreneurship and anything if my work featured in my repositories interest you.
 - 🧡 I believe in Open Source.
 - 👯 Open for research internships and interesting collaborations.
+- 💬 Talk with me about technology, finance, entrepreneurship and anything if my work featured in my repositories interest you.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 
