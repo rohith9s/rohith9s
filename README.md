@@ -53,7 +53,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
    * Worked as Software Engineer & promoted to Senior Software Engineer where i'm involed in `Listany` product development.
 * Tectoro Consulting Pvt Ltd (Jan'15 – Dec'16)
    * Tectoro specializes in providing technology solutions and consulting services to capital market participants.
-   * Worked as a Software Engineer in financial domain & took involvement in all area of application development.
+   * Worked as a Software Engineer in financial domain & took involvement in all areas of application development.
 * Nacre Software Services Pvt Ltd (Sep'14 –Dec'14) 
    * Worked as Java Trainee Intern.
 
