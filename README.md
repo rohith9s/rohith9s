@@ -97,9 +97,8 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <p>
    <a href="#"><img alt="Apache Maven"  height="20" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
-   
    <a href="#"><img alt="Sublime Text" height="20" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
-   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
+   <a href="#"><img alt="Notepad++" height="20" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
    <a href="#"><img alt="Visual Studio Code" height="20" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    <a href="#"><img alt="Eclipse" height="20" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
    <a href="#"><img alt="IntelliJ IDEA" height="20" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
