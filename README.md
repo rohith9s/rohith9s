@@ -126,9 +126,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
    <a href="https://github.com/rohith9s"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-blue"></a>
    <a href="https://github.com/rohith9s"><img alt="JBoss" src="https://img.shields.io/badge/JBoss-red"></a>
    <a href="https://github.com/rohith9s"><img alt="Apache Solr" src="https://img.shields.io/badge/Apache%20Solr-tan"></a> 
+   <a href="https://github.com/rohith9s"><img alt="JasperReports" src="https://img.shields.io/badge/JasperReports-Blue"></a> 
    <a href="https://github.com/rohith9s"><img alt="IReport" src="https://img.shields.io/badge/IReport-Yellow"></a> 
-	<a href="https://github.com/rohith9s"><img alt="Putty" src="https://img.shields.io/badge/Putty-Gray"></a> 
-	<a href="https://github.com/rohith9s"><img alt="Winscp" src="https://img.shields.io/badge/Winscp-Gray"></a> 
+   <a href="https://github.com/rohith9s"><img alt="Putty" src="https://img.shields.io/badge/Putty-Gray"></a> 
+  <a href="https://github.com/rohith9s"><img alt="Winscp" src="https://img.shields.io/badge/Winscp-Gray"></a> 
 	
 </p>
 
