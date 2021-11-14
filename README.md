@@ -72,7 +72,8 @@ My passion for software lies with dreaming up ideas and making them come true wi
 ### 🧰 Frameworks, Platforms and Libraries
 <p>
     <a href="https://github.com/rohith9s"><img alt="Spring" height="20"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-   <a href="https://github.com/rohith9s"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-yellowgreen"></a>	
+   <a href="https://github.com/rohith9s"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-yellowgreen"></a>
+      <a href="https://github.com/rohith9s"><img alt="Web Services" src="https://img.shields.io/badge/Web%20Services-brightgreen"></a>
     <a href="https://github.com/rohith9s"><img alt="Angular" height="20"  src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="https://github.com/rohith9s"><img alt="Angular.js" height="20"  src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"></a>
 	<a href="https://github.com/rohith9s"><img alt="jQuery" height="20"  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
@@ -80,7 +81,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
 	<a href="https://github.com/rohith9s"><img alt="Less" height="20"  src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-   <a href="https://github.com/rohith9s"><img alt="Log4J" src="https://img.shields.io/badge/Log4J-blue"></a>
+   <a href="https://github.com/rohith9s"><img alt="Log4J" src="https://img.shields.io/badge/Log4J-blue"></a> 
+   
+	
+
+   
    
  
 </p>
@@ -95,10 +100,12 @@ My passion for software lies with dreaming up ideas and making them come true wi
     <a href="#"><img alt="Oracle" height="20" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" height="20" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SonarLint" height="20" src="https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb"></a>
+    <a href="https://github.com/rohith9s"><img alt="Sybase" src="https://img.shields.io/badge/Sybase-blue"></a>
+   
 </p>
 
 
-### 💻 Softwares and tools
+### 💻 Softwares, Tools and Servers
 
 <p>
    <a href="#"><img alt="Apache Maven"  height="20" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
@@ -112,10 +119,16 @@ My passion for software lies with dreaming up ideas and making them come true wi
    <a href="#"><img alt="GitLab" height="20" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></a>
    <a href="#"><img alt="BitBucket" height="20" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"></a>
    <a href="#"><img alt="Postman" height="20" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+   <a href="https://github.com/rohith9s"><img alt="SoapUI" src="https://img.shields.io/badge/SoapUI-blue"></a>
    <a href="#"><img alt="Swagger"  height="20" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
    <a href="#"><img alt="Jira" height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
    <a href="#"><img alt="Prezi" height="20" src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white"></a>
-   
+   <a href="https://github.com/rohith9s"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-blue"></a>
+   <a href="https://github.com/rohith9s"><img alt="JBoss" src="https://img.shields.io/badge/JBoss-red"></a>
+   <a href="https://github.com/rohith9s"><img alt="Apache Solr" src="https://img.shields.io/badge/Apache%20Solr-tan"></a> 
+   <a href="https://github.com/rohith9s"><img alt="IReport" src="https://img.shields.io/badge/IReport-Yellow"></a> 
+	<a href="https://github.com/rohith9s"><img alt="Putty" src="https://img.shields.io/badge/Putty-Gray"></a> 
+	<a href="https://github.com/rohith9s"><img alt="Winscp" src="https://img.shields.io/badge/Winscp-Gray"></a> 
 	
 </p>
 
