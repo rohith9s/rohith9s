@@ -72,6 +72,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 ### 🧰 Frameworks, Platforms and Libraries
 <p>
     <a href="https://github.com/rohith9s"><img alt="Spring" height="20"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+   <a href="https://github.com/rohith9s"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-yellowgreen"></a>	
     <a href="https://github.com/rohith9s"><img alt="Angular" height="20"  src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="https://github.com/rohith9s"><img alt="Angular.js" height="20"  src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"></a>
 	<a href="https://github.com/rohith9s"><img alt="jQuery" height="20"  src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
@@ -79,6 +80,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 	<a href="https://github.com/rohith9s"><img alt="Less" height="20"  src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+   <a href="https://github.com/rohith9s"><img alt="Log4J" src="https://img.shields.io/badge/Log4J-blue"></a>
+   
+ 
 </p>
 
 
