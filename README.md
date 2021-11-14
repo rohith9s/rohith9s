@@ -122,6 +122,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
 	
 </p>
 
+## QR CODE
+<h3>scan this QR Code 👇 to view this page again</h3>
+<img alt="rohith9s_qr_code" src="" align="center" style="width: 60%" />
+
+
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
