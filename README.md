@@ -56,7 +56,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 * Nacre Software Services Pvt Ltd (Sep'14 –Dec'14) 
    * Worked as Java Trainee Intern.
 
-## 🛠️ My favorite tools
+## 🛠️ Professional Tech Stack
 
 ### 👨‍💻 Programming languages
  <a href="https://github.com/rohith9s"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -90,6 +90,29 @@ My passion for software lies with dreaming up ideas and making them come true wi
     <a href="#"><img alt="Oracle" height="20" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" height="20" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SonarLint" height="20" src="https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb"></a>
+</p>
+
+
+### 💻 Softwares and tools
+
+<p>
+   <a href="#"><img alt="Apache Maven"  height="20" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
+   
+   <a href="#"><img alt="Sublime Text" height="20" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
+   <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
+   <a href="#"><img alt="Visual Studio Code" height="20" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   <a href="#"><img alt="Eclipse" height="20" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+   <a href="#"><img alt="IntelliJ IDEA" height="20" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+   <a href="#"> <img alt="Git" height="20"  src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+   <a href="#"><img alt="GitHub" height="20" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+   <a href="#"><img alt="GitLab" height="20" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></a>
+   <a href="#"><img alt="BitBucket" height="20" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"></a>
+   <a href="#"><img alt="Postman" height="20" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+   <a href="#"><img alt="Swagger"  height="20" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
+   <a href="#"><img alt="Jira" height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+   <a href="#"><img alt="Prezi" height="20" src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white"></a>
+   
+	
 </p>
 
 <!--
