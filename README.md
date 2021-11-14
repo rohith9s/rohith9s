@@ -70,9 +70,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 ### 🧰 Frameworks, Platforms and Libraries
 <p>
-    <a href="https://github.com/rohith9s"><img alt="TypeScript" hsrc="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="https://github.com/rohith9s"><img alt="Angular" hsrc="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-
+    <a href="https://github.com/rohith9s"><img alt="Spring" height="20"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+    <a href="https://github.com/rohith9s"><img alt="Angular" height="20"  src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+</p>
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
