@@ -79,7 +79,19 @@ My passion for software lies with dreaming up ideas and making them come true wi
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
 </p>
-    
+
+
+
+
+### 🗄️ Databases
+<p>
+    <a href="#"><img alt="MongoDB" height="20" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" height="20" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" height="20" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" height="20" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SonarLint" height="20" src="https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb"></a>
+</p>
+
 <!--
 **rohith9s/rohith9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
