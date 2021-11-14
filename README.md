@@ -124,7 +124,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 ## QR CODE
 <h3>scan this QR Code 👇 to view this page again</h3>
-<span><img alt="rohith9s_qr_code" src="https://github.com/rohith9s/rohith9s/blob/main/rohith9s-QR-Code.png" align="center" style="width: 30%" /></span>
+<span style="text-align: center;"><img alt="rohith9s_qr_code" src="https://github.com/rohith9s/rohith9s/blob/main/rohith9s-QR-Code.png" align="center" style="width: 30%" /></span>
 
 
 <!--
