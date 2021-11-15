@@ -21,7 +21,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Rohith Varala | 💻 Full Stack Web Developer 💻 | 🛸 India , USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-I am originally from Hyderabad, India but currently living in Illinois, USA and pursuing my Masters in Computer Science from [SIUE](https://www.siue.edu/). I am a full stack web developer. I love contributing to open source projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I always believe in quote, *"Currency & Chair won't give you Life... ❤ more people, ❤ your country, ❤ your profession.."*
+I am originally from Hyderabad, India and currently living in Illinois, USA and pursuing my Masters in Computer Science from [SIUE](https://www.siue.edu/). I am a full stack web developer. I love contributing to open source projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I always believe in quote, *"Currency & Chair won't give you Life... ❤ more people, ❤ your country, ❤ your profession.."*
 
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces (*"If you can dream, your machine  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> can do it"*). I take great care in the experience, architecture, and code quality of the things I build.
 
