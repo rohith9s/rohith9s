@@ -27,7 +27,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 ## 🧐 More About Me:
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 - 🎓 Studying Masters in Computer Science at SIUE, class of 2022.
 - 💻 Full Stack Web Developer since 2014 and much of every thing ❤️
